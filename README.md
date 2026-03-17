@@ -41,7 +41,7 @@ scientific-calculator-cpp/
 - Improve error handling and user feedback
 
 ## Author
-- Ram Shukla
+- Ram Kushal Shukla
 
 ## License
 This project is licensed under the MIT License.
