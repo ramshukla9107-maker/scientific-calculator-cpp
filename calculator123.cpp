@@ -7,9 +7,9 @@ int main (){
         cout<<"\n=====SIMPLE CALCULATOR=====\n";
         cout<<"1.addition(+) \n";
         cout<<"2.substraction(-) \n";
-        cout<<"multiplication(*) \n";
-        cout<<"division (/) \n";
-        cout<<"enter your choice:";
+        cout<<"3.multiplication(*) \n";
+        cout<<"4.division (/) \n";
+        cout<<"5.enter your choice:";
         cin>>choice;
         if(choice>=1 && choice<=4){
             cout<<"enter first number";
