@@ -2,7 +2,7 @@
 
 ## Features
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
-- Scientific functions (square root)
+- Scientific functions (square root,factorial)
 - Support for parentheses to enforce order of operations
 - User-friendly command-line interface
 
