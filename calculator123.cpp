@@ -11,8 +11,8 @@ int main (){
         cout<<"3.multiplication(*) \n";
         cout<<"4.division (/) \n";
         cout<<"5.square root\n";
-        cout<<"6.sin\n2";
-        cout<<"7.cosine\n3";
+        cout<<"6.sin\n";
+        cout<<"7.cosine\n";
         cout<<"8.tangent\n";
         cout<<"9.exit\n";
         cout<<"enter your choice:";
